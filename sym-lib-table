@@ -1,7 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "RF_SX1280")(type "KiCad")(uri "${KIPRJMOD}/RF_SX1280.kicad_sym")(options "")(descr ""))
-  (lib (name "NX2016SA-26M-STD-CZS-1")(type "KiCad")(uri "${KIPRJMOD}/libs/NX2016SA-26M-STD-CZS-1/NX2016SA-26M-STD-CZS-1.kicad_sym")(options "")(descr ""))
-  (lib (name "EMPCB.SMAFSTJ.B.HT")(type "KiCad")(uri "${KIPRJMOD}/libs/EMPCB_SMAFSTJ_B_HT/EMPCB.SMAFSTJ.B.HT.kicad_sym")(options "")(descr ""))
-  (lib (name "RF_PowerSplitter")(type "KiCad")(uri "${KIPRJMOD}/libs/RF_PowerSplitter.kicad_sym")(options "")(descr ""))
-)

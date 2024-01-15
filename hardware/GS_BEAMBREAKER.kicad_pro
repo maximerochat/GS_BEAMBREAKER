@@ -406,7 +406,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "GS_LPC_RadioBoard.kicad_pro",
+    "filename": "GS_BEAMBREAKER.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -510,6 +510,10 @@
     [
       "0c275095-00c0-41ae-b08c-e5453f1b3f88",
       ""
+    ],
+    [
+      "f9a814e5-fb58-4685-8028-65487ad9331f",
+      "BeamFormer_FrontEnd"
     ]
   ],
   "text_variables": {}

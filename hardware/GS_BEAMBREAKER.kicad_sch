@@ -1345,7 +1345,7 @@
     (pin "1" (uuid 9dbbcd6b-52e1-472d-9959-38b3442cfa28))
     (pin "2" (uuid bc41e3ed-4985-48a1-abe4-ffe19a5eb6bd))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "C3") (unit 1)
         )
@@ -1371,7 +1371,7 @@
     (pin "1" (uuid a0992ae6-cbf0-4137-82b8-90908b2c920c))
     (pin "2" (uuid ea2a929f-dd23-40a7-9ab1-370b0ab21c55))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "C4") (unit 1)
         )
@@ -1396,7 +1396,7 @@
     )
     (pin "1" (uuid 54678e3d-2480-4ab5-8c7e-c593b90c69c4))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "#PWR03") (unit 1)
         )
@@ -1421,7 +1421,7 @@
     )
     (pin "1" (uuid 2b1543bb-f20c-47aa-9e5d-cdd63487d062))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "#PWR01") (unit 1)
         )
@@ -1447,7 +1447,7 @@
     (pin "1" (uuid 1fe4916a-0fbe-4bcd-809f-1dd895d56f92))
     (pin "2" (uuid b3a737e0-d6bd-4251-a513-b95a93885732))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "C2") (unit 1)
         )
@@ -1473,7 +1473,7 @@
     (pin "1" (uuid 1da7d0cf-3d49-4506-a58c-e3d3e146bc2b))
     (pin "2" (uuid 8d5da4b0-06e7-43fe-abc2-7aaf85a76268))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "C10") (unit 1)
         )
@@ -1498,7 +1498,7 @@
     )
     (pin "1" (uuid 73bc61c1-87aa-4c00-ab25-bc5ad43d7c29))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "#PWR09") (unit 1)
         )
@@ -1524,7 +1524,7 @@
     (pin "1" (uuid f70c6dd7-26fe-4550-aa41-41c2bf860791))
     (pin "2" (uuid 6cd56702-b073-4dc5-85c1-43825ff805c8))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "R8") (unit 1)
         )
@@ -1570,7 +1570,7 @@
     (pin "3" (uuid 7e61284d-b7bd-4bfe-b92d-308d823d035e))
     (pin "4" (uuid 811d7a98-6467-41d1-a5a9-606939b16b60))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "Y1") (unit 1)
         )
@@ -1596,7 +1596,7 @@
     (pin "1" (uuid 040f02ee-126c-4f80-bebb-0a4e4f3ac034))
     (pin "2" (uuid 214a4e26-eddf-4a59-b29c-3b602286a3da))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "R7") (unit 1)
         )
@@ -1622,7 +1622,7 @@
     (pin "1" (uuid 21bee398-a94b-43b9-bf40-f7b995821ada))
     (pin "2" (uuid d3b7db32-66a7-4d6f-9e1a-e5cda93d6338))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "C9") (unit 1)
         )
@@ -1671,7 +1671,7 @@
     (pin "8" (uuid b8a4d5af-b990-4cd3-a730-bd12f4440541))
     (pin "9" (uuid 33973163-1f1d-4aa2-a437-10a0075963ee))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "SX1280-2") (unit 1)
         )
@@ -1696,7 +1696,7 @@
     )
     (pin "1" (uuid 4611d2d9-11e7-4892-9688-7f4805fdc29a))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "#PWR02") (unit 1)
         )
@@ -1721,7 +1721,7 @@
     )
     (pin "1" (uuid 7be96044-8d82-45c1-a802-035fc9a5a4f6))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "#PWR010") (unit 1)
         )
@@ -1747,7 +1747,7 @@
     (pin "1" (uuid cc3bd48c-347e-4e82-bebd-6844392eac6f))
     (pin "2" (uuid 717e9737-22de-46bf-bb3a-5fb86003f7f5))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "C5") (unit 1)
         )
@@ -1772,7 +1772,7 @@
     )
     (pin "1" (uuid 11ba27e5-f6dc-48dc-8a86-1a1bf8437a8b))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "#PWR011") (unit 1)
         )
@@ -1798,7 +1798,7 @@
     (pin "1" (uuid fd550e38-55bf-435e-96e9-6fdce5bc7e4f))
     (pin "2" (uuid 825a1577-e400-4dd0-98dd-8f697e43f6b3))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "R1") (unit 1)
         )
@@ -1824,7 +1824,7 @@
     (pin "1" (uuid 109cb681-c126-43ea-a160-05e67671d095))
     (pin "2" (uuid af5e37a8-8284-426e-bb4f-7553677791e7))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "L2") (unit 1)
         )
@@ -1849,7 +1849,7 @@
     )
     (pin "1" (uuid 6cd42514-ef04-44a0-96d8-9972fc28fb85))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "#PWR014") (unit 1)
         )
@@ -1874,7 +1874,7 @@
     )
     (pin "1" (uuid 12bdfc7a-d4c4-4f97-8a51-57922e7913cd))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "#PWR04") (unit 1)
         )
@@ -1899,7 +1899,7 @@
     )
     (pin "1" (uuid 00cfb286-135b-4054-8873-f21acf384056))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "#PWR06") (unit 1)
         )
@@ -1925,7 +1925,7 @@
     (pin "1" (uuid d3c3fb39-5e4c-4eab-89e7-92b3be683ad9))
     (pin "2" (uuid 6065b07f-29b0-4c5a-9a32-8db8e8c7a8b4))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "C6") (unit 1)
         )
@@ -1951,7 +1951,7 @@
     (pin "1" (uuid 49c5e103-6e31-4ae5-a88d-3fd6bb87455b))
     (pin "2" (uuid 23046f45-8d56-416a-b4de-961ac10d3589))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "L3") (unit 1)
         )
@@ -1976,7 +1976,7 @@
     )
     (pin "1" (uuid d22b603d-dffd-4f44-bd26-df622c7896a6))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "#PWR08") (unit 1)
         )
@@ -2001,7 +2001,7 @@
     )
     (pin "1" (uuid 6802c42d-ebba-4769-a2d0-413cd6842c9a))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "#PWR05") (unit 1)
         )
@@ -2027,7 +2027,7 @@
     (pin "1" (uuid 51a13956-b1bb-479a-8b44-7bfe25c98a51))
     (pin "2" (uuid da5de056-d079-4eb5-b0f9-c18a2b697a2a))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "C7") (unit 1)
         )
@@ -2059,7 +2059,7 @@
     (pin "1" (uuid 925547e4-f5ff-413d-b705-5715ac4ad46a))
     (pin "SH1" (uuid c325e568-1c6b-4c09-b7c9-ad6e341ccf97))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "J3") (unit 1)
         )
@@ -2085,7 +2085,7 @@
     (pin "1" (uuid c051adfa-a1c8-4ad8-aad3-fb9f469f47d8))
     (pin "2" (uuid cb560ec1-7e53-497f-abea-8d7b594a7a12))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "C8") (unit 1)
         )
@@ -2110,7 +2110,7 @@
     )
     (pin "1" (uuid d9ce6280-316d-4490-ba85-198d34e3dc3c))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "#PWR012") (unit 1)
         )
@@ -2136,7 +2136,7 @@
     (pin "1" (uuid 142fb3aa-c48e-4db4-9b8d-5738c786e06f))
     (pin "2" (uuid 77be470f-83f8-4785-a419-f9e80d3bc8e2))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "L1") (unit 1)
         )
@@ -2162,7 +2162,7 @@
     (pin "1" (uuid e6f32b7a-46fe-47e4-882b-e9c0e144755f))
     (pin "2" (uuid 8aa581ab-f53e-44e0-969f-83117337ad6d))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "R9") (unit 1)
         )
@@ -2188,7 +2188,7 @@
     (pin "1" (uuid 7d457e02-08da-4a82-920d-12b9bbbe6177))
     (pin "2" (uuid b334727a-6e7d-4aae-ad10-1c04e827c74c))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "R10") (unit 1)
         )
@@ -2213,7 +2213,7 @@
     )
     (pin "1" (uuid 6e1faa3e-12fb-4f90-beba-98e81c731a12))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "#PWR07") (unit 1)
         )
@@ -2244,7 +2244,7 @@
     (pin "6" (uuid e56fba65-e64e-441a-ad4a-843b2e02869e))
     (pin "7" (uuid e0e186dc-d1d4-4648-80d9-dec9dbeb5f52))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "J1") (unit 1)
         )
@@ -2270,7 +2270,7 @@
     (pin "1" (uuid b119c413-aec2-4638-8a34-8bac8183b05e))
     (pin "2" (uuid e0a17752-055b-441d-954a-2c4ea9296a69))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "C1") (unit 1)
         )
@@ -2299,7 +2299,7 @@
     (pin "4" (uuid 12c9c012-4d6c-4a00-a9dc-59f716cb6157))
     (pin "5" (uuid d7d4f04f-28e1-4939-b113-0c0e047738d3))
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88"
           (reference "J2") (unit 1)
         )
@@ -2307,18 +2307,42 @@
     )
   )
 
-  (sheet (at 77.47 134.62) (size 27.94 33.02) (fields_autoplaced)
+  (sheet (at 62.23 135.89) (size 21.59 21.59) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
-    (uuid b4887f69-cf5b-429d-b4e2-c1a67239344e)
-    (property "Sheetname" "BeamFormer_FrontEnd" (at 77.47 133.9084 0)
+    (uuid f9a814e5-fb58-4685-8028-65487ad9331f)
+    (property "Sheetname" "BeamFormer_FrontEnd" (at 62.23 135.1784 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "BeamFormer_FrontEnd.kicad_sch" (at 77.47 168.2246 0)
+    (property "Sheetfile" "BeamFormer_FrontEnd.kicad_sch" (at 62.23 158.0646 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
+    (pin "GND" bidirectional (at 62.23 142.24 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 82a2fd81-2db0-47b7-b7ce-c292839f287a)
+    )
+    (pin "RF_IN" input (at 62.23 146.05 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 5245fd13-21c3-40bb-a9a0-3cd2c3fee46d)
+    )
+    (pin "ANT0" output (at 83.82 142.24 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 0d8866cc-dcaf-41ad-a886-880facf5a4bf)
+    )
+    (pin "ANT2" output (at 83.82 149.86 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 6ad5e92e-11e5-4d13-863f-0c9c7273fb82)
+    )
+    (pin "ANT1" output (at 83.82 146.05 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid de3185d3-1089-4a7a-a522-c387b1ee3d1e)
+    )
+    (pin "ANT3" output (at 83.82 153.67 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 0ef630d0-ff7e-41eb-9609-231e2df6f7db)
+    )
     (instances
-      (project "GS_BEAMBREAKER_V12PRO_MAX"
+      (project "GS_BEAMBREAKER"
         (path "/0c275095-00c0-41ae-b08c-e5453f1b3f88" (page "2"))
       )
     )

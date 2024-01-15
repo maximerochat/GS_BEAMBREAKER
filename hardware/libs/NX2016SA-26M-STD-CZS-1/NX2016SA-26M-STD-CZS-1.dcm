@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NX2016SA-26M-STD-CZS-1
+D NDK 26MHz Crystal Unit +/-15ppm SMD 4-Pin 2 x 1.6 x 0.45mm
+K
+F https://www.mouser.in/datasheet/2/905/c_NX2016SA_STD_CZS_1_e-1387356.pdf
+$ENDCMP
+#
+#End Doc Library
